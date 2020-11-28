@@ -1,0 +1,3 @@
+include ':app'
+include ':SunmiPrinter'
+rootProject.name = "PrintWithSunmi"
